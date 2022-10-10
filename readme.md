@@ -1,6 +1,6 @@
-#Cheat sheet - Commandes Linux
+# Cheat sheet - Commandes Linux
 
-##Manipulations de fichiers et dossiers
+## Manipulations de fichiers et dossiers
 
 ls : lister les éléments d’un dossier
 
@@ -24,7 +24,7 @@ cp : copier un fichier ou un dossier
 
 mv : déplacer un fichier ou renommer un fichier
 
-##Gestion des paquets
+## Gestion des paquets
 
 sudo : exécuter une commande en super-utilisateur
 
@@ -40,6 +40,6 @@ sudo reboot : redémarrer le système
 
 sudo shutdown : arrêter le système
 
-##Commandes réseau
+## Commandes réseau
 
 ping : faire un test de connectivité
