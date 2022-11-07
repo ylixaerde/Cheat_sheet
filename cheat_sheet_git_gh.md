@@ -30,5 +30,15 @@ git clone lien-github.com
 
 ##GitHub
 
+gh auth
 
+>lance le script d'authentification Git vers GitHub
+
+gh repo create --source=. --public --push
+
+>Créer un dépot distant sur GitHub en mode public et uploader la dernière version du dépot local dessus.
+
+git push
+
+>Envoyer les modifications vers le dépot distant
 
