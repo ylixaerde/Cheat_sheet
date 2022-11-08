@@ -12,9 +12,14 @@ git add .
 
 >Ajouter à l’index les éléments du dossier courant
 
+git log
+
+>Permet d'afficher les versions effectuées
+
 git commit –m « explication »
 
 >Créer une nouvelle version des fichiers ajouter à l’index
+
 >Explication – exemple : « update 1 cheat sheet python et github complétées »
 
 ### Dépot distant
