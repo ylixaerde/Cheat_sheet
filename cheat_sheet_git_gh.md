@@ -42,7 +42,7 @@ git clone lien-github.com
 
 ##GitHub
 
-gh auth
+gh auth login
 
 >lance le script d'authentification Git vers GitHub
 
