@@ -22,6 +22,14 @@ git commit –m « explication »
 
 >Explication – exemple : « update 1 cheat sheet python et github complétées »
 
+git stash
+
+>Supprime les derniers changements mais les sauvegarde pour récupération si besoin
+
+git reset --hard
+
+>Supprime les derniers changements, pas de sauvegarde de ceux-ci
+
 ### Dépot distant
 
 git remote add origin lien-github.com
